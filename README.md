@@ -6,10 +6,8 @@ This repository contains a Python project that simulates and analyzes the evolut
 - [Introduction](#introduction)
 - [System Description](#system-description)
 - [Dependencies](#dependencies)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Example Results](#example-results)
-- [License](#license)
+- [Results](#results)
 
 ## Introduction
 This project simulates the behavior of a dynamic system modeled by differential equations. The simulation provides insights into how the system evolves over time under different scenarios. The simulation results are visualized through plots of state variables, helping to understand the system dynamics.
@@ -50,7 +48,7 @@ where:
 ### Customization
 Feel free to adjust the system matrices `A` and `B`, as well as the constants, to simulate different dynamic systems.
 
-## Example Results
+## Results
 The project generates plots showing the time evolution of the state variables under different conditions:
 
 1. **Scenario 1**: Simulation with initial state `z0 = [100, 0, 0, 0]` and no external forces.
