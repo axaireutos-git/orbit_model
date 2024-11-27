@@ -35,7 +35,7 @@ where:
 ## Usage
 1. Run the main script to simulate and plot the system's behavior:
    ```bash
-   python main.py
+   orbit_model.ipynb
    ```
 
 2. Modify initial conditions or input forces in the `main.py` file to test different scenarios.
