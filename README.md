@@ -15,7 +15,7 @@ This project simulates the behavior of a dynamic system modeled by differential 
 ## System Description
 The system is governed by a set of linear differential equations of the form:
 
-\[ \dot{z} = A z + B u \]
+\[ dot{z} = A z + B u \]
 
 where:
 - `A` is a system matrix that describes the internal dynamics.
